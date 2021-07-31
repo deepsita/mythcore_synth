@@ -37,7 +37,7 @@ The synthesized netlist(mythcore.synth.v) is to be copied in the folder /mythcor
 
 
         cd mythcore_synth/post synth Simulation/
-        iverilog gls.v mythcore.synth.v primitives.v sky130_fd_sc_hd.v
+        iverilog gls.v mythcore.synthesis.v primitives.v sky130_fd_sc_hd.v
         ./a.out
         gtkwave gls.vcd
 
