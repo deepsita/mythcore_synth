@@ -4,7 +4,7 @@ The Synthesis of MYTH core given by KunalGhosh VSDCorp.(https://github.com/kunal
 Steps for pre synthesis simulation:
 
     git clone https://github.com/deepsita/mythcore_synth/
-    cd rmythcore_synth/presynthesis/
+    cd mythcore_synth/presynthesis/
     iverilog mythcore_test.v tb_mythcore_test.v
     ./a.out
     gtkwave tb_mythcore_test.vcd
