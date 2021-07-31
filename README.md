@@ -1,5 +1,5 @@
 # mythcore_synth
-The Synthesis of MYTH core from https://github.com/kunalg123/rvmyth.
+The Synthesis of MYTH core given by KunalGhosh VSDCorp.(https://github.com/kunalg123/rvmyth)
 
 Steps for pre synthesis simulation:
 
