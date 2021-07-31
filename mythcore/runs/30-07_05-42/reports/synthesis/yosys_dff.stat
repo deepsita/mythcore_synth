@@ -1,0 +1,25 @@
+
+15. Printing statistics.
+
+=== mythcore ===
+
+   Number of wires:               5591
+   Number of wire bits:           7415
+   Number of public wires:         130
+   Number of public wire bits:    1769
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               6937
+     $_ANDNOT_                    1374
+     $_AND_                        167
+     $_MUX_                       2379
+     $_NAND_                        42
+     $_NOR_                         96
+     $_NOT_                         11
+     $_ORNOT_                       82
+     $_OR_                        1312
+     $_XNOR_                        74
+     $_XOR_                        127
+     sky130_fd_sc_hd__dfxtp_2     1273
+
